@@ -10,4 +10,5 @@ A responsive web design built from scratch.<br/>
 6- Waypoint jquery plugin.<br/>
 7- Google fonts "Lato".<br/>
 
+## Screenshots
 ![](https://github.com/mostafamt/omnifood/blob/master/resources/img/fullScreen-min.png)
