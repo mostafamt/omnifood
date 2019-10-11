@@ -15,5 +15,8 @@
 6- Waypoint jquery plugin.<br/>
 7- Google fonts "Lato".<br/>
 
+## Installation
+You don't need any configurations. just download and open index.html into your favorite browser.
+
 ## Screenshots
 ![](https://github.com/mostafamt/omnifood/blob/master/resources/img/fullScreen-min.png)
