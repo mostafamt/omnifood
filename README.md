@@ -1,9 +1,10 @@
 <p align="center">
-  <img width="100" height="100" src="https://github.com/mostafamt/omnifood/blob/master/resources/img/logo.png">
+  <img width="150" height="150" src="https://github.com/mostafamt/omnifood/blob/master/resources/img/logo.png"><br/>
+  omnifood
 </p>
 
 # omnifood
-A responsive web design built from scratch.<br/>
+<b>Description: </b>A responsive web design built from scratch.<br/>
 
 ## Dependencies
 1- Grid.css.<br/>
