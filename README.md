@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mostafamt/omnifood/blob/master/resources/img/logo.png">
+</p>
 # omnifood
 A responsive web design built from scratch.<br/>
 
