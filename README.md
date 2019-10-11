@@ -3,7 +3,7 @@
   omnifood
 </p>
 
-# omnifood
+# Omnifood
 <b>Description: </b>A responsive web design built from scratch.<br/>
 
 ## Dependencies
